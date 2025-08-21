@@ -19,11 +19,11 @@ This project is a full-stack clone of the popular accommodation booking platform
 
 ## **🧰 Tech Stack**
 
-**Frontend: HTML, CSS, JavaScript (React or a similar framework)
+* **Frontend:** HTML, CSS, JavaScript (React or a similar framework)
 
-Version Control: Git & GitHub
+* **Version Control:** Git & GitHub
 
-Design Tools: Figma for UI/UX design
+* **Design Tools:** Figma for UI/UX design
 
 
 ## **🎨 UI/UX Design Planning**
@@ -50,13 +50,13 @@ Design Tools: Figma for UI/UX design
 
 * User authentication
 
-## **🗺 Primary Pages**
+## **🗺 Primary Pages overview**
 
-|Page	                      Description      
+| **Page**	                | **Description** |
 |--------------------------|---------------|
-|Property Listing View	   |Grid display of available properties with filters (price, location, rating)|
-|Listing Detailed View	   |Complete property details with images, amenities, map, reviews, and booking form|
-|Simple Checkout View	     |Streamlined payment, guest details, and booking confirmation|
+| Property Listing View	   |Grid display of available properties with filters (price, location, rating) |
+| Listing Detailed View	   |Complete property details with images, amenities, map, reviews, and booking form |
+| Simple Checkout View	     |Streamlined payment, guest details, and booking confirmation |
 
 
 ## **🤝 Importance of User-Friendly Design**
