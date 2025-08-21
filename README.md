@@ -1,4 +1,4 @@
-# **🏡 AirBnB Clone — Full-Stack Project README**
+# **🏡 AirBnB Clone — Experience Booking like a Pro**
 
 ## **📌 Project Description**
 
@@ -61,5 +61,104 @@ This project is a full-stack clone of the popular accommodation booking platform
 
 ## **🤝 Importance of User-Friendly Design**
 
-A well-designed booking system reduces friction, increases conversion, and improves satisfaction. Clear navigation, predictable patterns, and responsive layouts help users complete bookings with confidence and speed
+A well-designed booking system reduces friction, increases conversion, and improves satisfaction. Clear navigation, predictable patterns, and responsive layouts help users complete bookings with confidence and speed.
 
+## **🎨 Color Styles**
+
+* **Primary:** #FF5A5F
+
+* **Secondary:** #008489
+
+* **Background:** #FFFFFF
+
+* **Text:** #222222
+
+* **Secondary Text:** #717171
+
+
+## **🔤 Typography**
+
+* **Primary Font:** Circular, Medium (500), 16px
+
+* **Headings:** Circular, Bold (700), 24–32px
+
+* **Secondary Text:** Circular, Book (400), 14px
+
+## **🧭 Why Identify Design Properties?**
+
+Documenting colors, typography, spacing, and component specs ensures consistency, faster development, accessibility alignment, and smooth collaboration between designers and developers. It reduces ambiguity and rework by turning the mockup into actionable specs.
+
+## **🧑‍💼 Project Roles and Responsibilities**
+
+| **Role**	          | **Responsibilities**|
+|-------------------- |------------------- |
+| Project Manager	    | Owns roadmap & timeline, coordinates cross-team deliverables, risk management, status reporting|
+| Frontend Developers |	Implement reusable components, routing, state management, responsiveness, accessibility, and API integration|
+| Backend Developers	| Design database schema, build REST/GraphQL APIs, implement business logic, authentication, validation, and security|
+| Designers	Create    | wireframes & high-fidelity mockups, maintain design system, conduct usability reviews, handoff specs|
+| QA/Testers	        | Write test cases, perform manual/automated testing, log defects, verify fixes, regression testing|
+| DevOps Engineers	  | Set up CI/CD, manage environments, containerization, cloud infra, monitoring, and rollback strategies|
+| Product Owner	      |Define requirements & acceptance criteria, prioritize backlog, gather stakeholder feedback|
+| Scrum Master	      |Facilitate ceremonies, remove blockers, ensure agile best practices and continuous improvement|
+
+## **🧩 UI Component Patterns** 
+
+### **🔝 Navbar**
+
+* Logo
+
+* Search bar (destination, dates, guests)
+
+* User navigation (login/profile/menu)
+
+* Responsive menu (hamburger on mobile)
+
+
+### **🏠 Property Card**
+
+* Property image (cover)
+
+* Title, price/night, location, rating
+
+* Favorite (wishlist) button
+
+* Responsive grid behavior
+
+
+### **🦶 Footer**
+
+* Site links (Help, Terms, Privacy)
+
+* Company info & contact
+
+* Social media links
+
+* Copyright line
+
+ ## **🧭 Best Practices (with ❤)**
+
+* **Code Organization:** Clean, modular, feature-based structure
+
+* **Version Control:** Feature branches, meaningful commits, PR reviews
+
+* **Responsive Design:** Mobile-first, fluid grids, adaptive images
+
+* **Accessibility:** Follow WCAG; semantic HTML, ARIA where needed, focus states
+
+* **Documentation:** Keep README, ADRs, and component docs current
+
+* **Testing:** Unit (components & utils) + integration (flows & APIs)
+
+  ## **✨ Project Highlights & Fun Facts**
+
+* **🏡 Realistic Booking Experience:** Explore properties, view details, and complete bookings as if on the real AirBnB!
+
+* **🎨 Pixel-Perfect UI:** Colors, typography, and components follow professional Figma design specs.
+
+* **📱 Mobile-First Design:** Fully responsive for all devices — swipe, tap, and book on the go.
+
+* **🔄 Reusable Components:** Navbar, Property Card, Footer designed for scalability and maintainability.
+
+* **🚀 Future-Ready:** Built with clean architecture, ready for additional features like reviews, ratings, and payment integrations.
+
+* **📝 Developer Friendly:** Clear documentation, structured code, and meaningful commits for easy collaboration.
