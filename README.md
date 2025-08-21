@@ -90,7 +90,7 @@ Documenting colors, typography, spacing, and component specs ensures consistency
 
 ## **🧑‍💼 Project Roles and Responsibilities**
 
-| **Role**	          | **Responsibilities**|
+| **Roles**	          | **Responsibilities**|
 |-------------------- |------------------- |
 | Project Manager	    | Owns roadmap & timeline, coordinates cross-team deliverables, risk management, status reporting|
 | Frontend Developers |	Implement reusable components, routing, state management, responsiveness, accessibility, and API integration|
